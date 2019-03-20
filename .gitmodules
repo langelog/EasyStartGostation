@@ -1,0 +1,3 @@
+[submodule "gostation"]
+	path = gostation
+	url = git@github.com:langelog/gostation.git
